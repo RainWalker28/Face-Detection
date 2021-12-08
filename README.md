@@ -1,4 +1,4 @@
-![Example](./Screenshot_1.JPEG) 
+![Example](./Screenshot_1.jpeg) 
 
 > Байдаус Михайло КВ-84 
 
